@@ -83,16 +83,18 @@
 
 ------
 
-|  网址名称  |                         永久网址                          |                   其                    |           它            |           通            |           道            |
-| :--------: | :-------------------------------------------------------: | :-------------------------------------: | :---------------------: | :---------------------: | :---------------------: |
-|  可可书吧  | [发布页](https://github.com/mailes/kkdizhi/wiki/kkdizhi)  | [①](http://www.qiushiapp.com/forum.php) |                         |                         |                         |
-|  性感帝国  |  [备用网址](http://mm8.tv/)/[永久网址](www.性感帝国.com)  |     [①](https://www.xinggan8.com/)      |                         |                         |                         |
-| 摩天轮社区 |               [发布页](https://77mtl.com/)                |                                         |                         |                         |                         |
-|   葬花阁   | [地址发布器](http://www.zhgcom.xyz/thread-67857-1-1.html) |       [①](http://www.zhgcom.xyz/)       | [②](http://zhg521.com/) | [③](http://zhg521.com/) | [④](http://zhg521.com/) |
-|   桃花族   |     [导航页](http://taohuazu.cc/)/[发布页](ttthz.com)     |         [①](http://thz666.com/)         |  [②](http://yym7.com/)  | [③](http://yeyemo9.us/) |                         |
-|   书悦吧   |           [永久网址](http://www.shuyueba.com/)            |      [①](http://www.shuyueba.cc/)       |                         |                         |                         |
-|   4K天堂   |         [点击进入](http://www.4ktt.com/forum.php)         |                                         |                         |                         |                         |
-| 饭拍资源网 |           [点击进入](http://www.fanpaixiu.cc/)            |                                         |                         |                         |                         |
+|  网址名称  |                         永久网址                          |                         其                          |                 它                 |                 通                 |                 道                  |
+| :--------: | :-------------------------------------------------------: | :-------------------------------------------------: | :--------------------------------: | :--------------------------------: | :---------------------------------: |
+|  可可书吧  | [发布页](https://github.com/mailes/kkdizhi/wiki/kkdizhi)  |       [①](http://www.qiushiapp.com/forum.php)       |                                    |                                    |                                     |
+|  性感帝国  |  [备用网址](http://mm8.tv/)/[永久网址](www.性感帝国.com)  |           [①](https://www.xinggan8.com/)            |                                    |                                    |                                     |
+| 摩天轮社区 |               [发布页](https://77mtl.com/)                |                                                     |                                    |                                    |                                     |
+|   葬花阁   | [地址发布器](http://www.zhgcom.xyz/thread-67857-1-1.html) |             [①](http://www.zhgcom.xyz/)             |      [②](http://zhg521.com/)       |      [③](http://zhg521.com/)       |       [④](http://zhg521.com/)       |
+|   桃花族   |     [导航页](http://taohuazu.cc/)/[发布页](ttthz.com)     |               [①](http://thz666.com/)               |       [②](http://yym7.com/)        |      [③](http://yeyemo9.us/)       |                                     |
+|   书悦吧   |           [永久网址](http://www.shuyueba.com/)            |            [①](http://www.shuyueba.cc/)             |                                    |                                    |                                     |
+|   4K天堂   |         [点击进入](http://www.4ktt.com/forum.php)         |                                                     |                                    |                                    |                                     |
+| 饭拍资源网 |           [点击进入](http://www.fanpaixiu.cc/)            |                                                     |                                    |                                    |                                     |
+|  91汤不热  |          [永久网址](https://www.91tangbure.com)           | [发布页](https://www.ebay.com/usr/91tangbure_dizhi) | [①](http://www.91god.cc/forum.php) | [②](http://www.91god.cc/forum.php) |                                     |
+|   倾听网   |          [发布页](http://vip8006.cn/1/index.htm)          |             [①](http://www.ss8007.top/)             |     [②](http://www.ss8006.cn/)     |    [③](http://www.vip8006.cn/)     | [④](http://www.ss8007.cc/forum.php) |
 
 #### 联系我们
 
