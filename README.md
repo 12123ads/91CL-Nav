@@ -12,7 +12,15 @@
 
 如有失效网址，请及时告知，联系方式在最下方
 
+#### 墙裂推荐
 
+------
+
+[点击进入👉91CL社區丨首页]( https://github.com/91CL/91CL/blob/master/README.md )
+
+[【最新发布】点击进入👉91CL社區丨福利APP分享]( https://github.com/91CL/91CL-APP/blob/master/README.md )
+
+[点击进入👉91CL社區丨科学上网导航]( https://github.com/91CL/91CL-VPN/blob/master/README.md )
 
 #### 热门社区（表格向左滑动可以查看更多）
 
